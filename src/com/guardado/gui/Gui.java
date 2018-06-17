@@ -60,7 +60,7 @@ public class Gui extends JFrame{
             }
         });
         
-        reinicio.setVisible(false);
+        reinicio.setVisible(true);
         reinicio.setBounds(575,0,100,30);
         container.add(reinicio);
         
